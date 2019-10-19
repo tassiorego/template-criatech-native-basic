@@ -1,0 +1,4 @@
+{
+  "babel-plugin-root-import": "latest",
+  "eslint-import-resolver-babel-plugin-root-import": "latest"
+}

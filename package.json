@@ -1,0 +1,15 @@
+{
+  "name": "react-native-template-criatech-basic",
+  "version": "0.0.3",
+  "description": "Template Básico para aplicativos desenvolvido em React Native, com estrutura de diretórios e configurações básicas usadas pelos desenvolvedores da Criatech",
+  "keywords": [
+    "react-native",
+    "template",
+    "criatech",
+    "react-navigation",
+    "babel-root-import",
+    "axios"
+  ],
+  "author": "Tássio Rego <tassio@criatech.me>",
+  "license": "MIT"
+}
